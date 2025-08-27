@@ -1,12 +1,42 @@
-# React + Vite
+# Polygon Vertex Interactive
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the code for the **Polygon Vertex Interactive**, designed to help students explore and understand the concept of vertices in polygons—demonstrating how to identify and analyze the vertices of various polygons through interactive visuals and instant feedback.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Interactive
 
-## Expanding the ESLint configuration
+Try it out here:  
+👉 https://content-interactives.github.io/polygon_vertex/
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Where This Interactive Is Being Used
+
+This interactive is currently featured in the following locations:
+
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5d12571f-8e12-4441-98ab-c0bc94069a96" /> **CK‑12 Intent Response**  
+  - 👉 PRODUCTION: [PENDING]  
+  - 👉 MASTER: [PENDING]
+- 📘 **CK‑12 Flexbooks**  
+  - 👉 [PENDING: Book/lesson link where this interactive appears]
+
+---
+
+## 📚 Standards & Subjects
+
+This interactive aligns with the following topics and standards:
+
+- **📂 Subject Area**: Middle School Math (Grade 6–8)  
+- **➗ Topic**: Polygons — Understanding the concept of vertices in polygons and how to identify and analyze them  
+- **📏 Common Core**:  
+  - **CCSS.MATH.CONTENT.6.G.A.4** – Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures. Apply these techniques in the context of solving real-world and mathematical problems.  
+  - **CCSS.MATH.CONTENT.7.G.A.2** – Describe the two-dimensional figures that result from slicing three-dimensional solids, and identify the cross-sections of three-dimensional objects.
+
+---
+
+## 🛠️ Developer Notes
+
+- **Built with**: React, Javascript, Tailwind CSS, Vite ([github.com](https://github.com/Content-Interactives/polygon_vertex))  
+- **Deployed via**: GitHub Pages  
+- **See**: `src/`, `public/`, `package.json`, `vite.config.ts`, and related config files ([github.com](https://github.com/Content-Interactives/polygon_vertex))
